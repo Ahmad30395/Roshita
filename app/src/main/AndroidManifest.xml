@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ahmad.elroshita">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/roshita"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/roshita"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ShowingActivity"
+            android:screenOrientation="landscape" />
+
+        <activity android:name=".Showing2Activity"
+            android:screenOrientation="landscape" />
+
+        <activity android:name=".Showing3Activity"
+            android:screenOrientation="landscape" />
+
+        <activity android:name=".Showing4Activity"
+            android:screenOrientation="landscape" />
+
+        <activity android:name=".Showing5Activity"
+            android:screenOrientation="landscape" />
+
+        <activity android:name=".Showing6Activity"
+            android:screenOrientation="landscape" />
+
+    </application>
+
+</manifest>

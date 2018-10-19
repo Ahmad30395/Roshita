@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ElRoshita</string>
+    <string name="antihypertensive_drugs_app">Antihypertensive-Drugs-app</string>
+    <string name="aya_app">aya-app</string>
+    <string name="diabetes_app">diabetes..app</string>
+    <string name="gout_app">gout..app</string>
+    <string name="ii_anti_anxiety">II-anti-anxiety</string>
+    <string name="peptic_ulcer_drug_interaction">Peptic-ulcer-drug-interaction</string>
+    <string name="yor_text_here">yor Text Here</string>
+</resources>
